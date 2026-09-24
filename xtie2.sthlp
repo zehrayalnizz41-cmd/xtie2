@@ -64,7 +64,7 @@ The reported critical values are marginal-effect zero-crossing values.
 {pstd}
 They are not Hansen-type panel threshold estimates.
 
-{title:Author}
+{title:Authors}
 
 {pstd}
 Dr. Zehra Yalnız
@@ -77,6 +77,9 @@ Email: zehrayalnizz41@gmail.com
 
 {pstd}
 ORCID: 0000-0003-2633-2022
+
+Prof. Dr. Figen Büyüakakın
+Kocaeli University, Türkiye
 
 {title:Version}
 
