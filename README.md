@@ -55,3 +55,5 @@ Version 2.0, September 2026
 ## License
 
 MIT License
+
+Both `xtie2` and `xtie3` are distributed under the MIT License.
