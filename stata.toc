@@ -1,2 +1,3 @@
 v 3
 p xtie2 Interactive Panel Data Estimation
+p xtie3 Extended Interactive Panel Data Estimation with Johnson-Neyman Regions
