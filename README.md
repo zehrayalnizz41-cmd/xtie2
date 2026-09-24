@@ -41,13 +41,15 @@ The critical values reported by `xtie2` are marginal-effect zero-crossing values
 
 They are not Hansen-type panel threshold estimates.
 
-## Author
+## Authors
 
-Dr. Zehra Yalnız  
-Kocaeli University, Türkiye  
+Lead Developer: Dr. Zehra Yalnız  
+Kocaeli, Türkiye  
 Email: zehrayalnizz41@gmail.com  
 ORCID: 0000-0003-2633-2022
 
+Co-developer: Prof. Dr. Figen Büyükakın
+Kocaeli University, Türkiye
 ## Version
 
 Version 2.0, September 2026
