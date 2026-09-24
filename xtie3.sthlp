@@ -128,19 +128,22 @@ Hansen-type panel thresholds represent separately estimated regime boundaries an
 {p 8 12 2}
 {cmd:e(JN_x1_high)} upper Johnson-Neyman bound for the second focal variable
 
-{title:Author}
+{title:Authors}
 
 {pstd}
 Dr. Zehra Yalnız
 
 {pstd}
-Kocaeli University, Türkiye
+Kocaeli, Türkiye
 
 {pstd}
 Email: zehrayalnizz41@gmail.com
 
 {pstd}
 ORCID: 0000-0003-2633-2022
+Prof Dr. Figen Büyüakın
+Kocaeli University, Türkiye
+
 
 {title:Version}
 
