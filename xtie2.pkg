@@ -2,10 +2,12 @@ v 3
 d xtie2
 d Interactive Panel Data Estimation
 d
-d Author: Dr. Zehra Yalnız
+d Authors: Dr. Zehra Yalnız and Prof. Dr. Figen Büyükakın
 d Email: zehrayalnizz41@gmail.com
 d ORCID: 0000-0003-2633-2022
-d Version: 2.0, September 2026
+d Version: 2.1, September 2026
 d
 f xtie2.ado
 f xtie2.sthlp
+f xtie3.ado
+f xtie3.sthlp
