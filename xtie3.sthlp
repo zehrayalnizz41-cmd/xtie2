@@ -132,20 +132,15 @@ Hansen-type panel thresholds represent separately estimated regime boundaries an
 
 {pstd}
 Dr. Zehra Yalnız
-
-{pstd}
-Kocaeli, Türkiye
-
-{pstd}
-Email: zehrayalnizz41@gmail.com
-
-{pstd}
-ORCID: 0000-0003-2633-2022
-Prof Dr. Figen Büyüakın
 Kocaeli University, Türkiye
+Email: zehrayalnizz41@gmail.com
+ORCID: 0000-0003-2633-2022
 
+{pstd}
+Prof. Dr. Figen Büyükakın
+Kocaeli University, Türkiye
 
 {title:Version}
 
 {pstd}
-Version 3.0, September 2026
+Version 2.1, September 2026
