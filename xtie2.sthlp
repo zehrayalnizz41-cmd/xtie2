@@ -78,12 +78,11 @@ Email: zehrayalnizz41@gmail.com
 {pstd}
 ORCID: 0000-0003-2633-2022
 
-Prof. Dr. Figen Büyüakakın
+{pstd}
+Prof. Dr. Figen Büyükakın
 Kocaeli University, Türkiye
 
 {title:Version}
 
 {pstd}
-Version 2.0, September 2026.
-{pstd}
-Version 2.0, September 2026.
+Version 2.1, September 2026.
