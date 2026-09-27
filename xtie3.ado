@@ -1,7 +1,7 @@
 capture program drop xtie3
 
 program define xtie3, eclass
-    version 18
+    version 17
     syntax varlist(min=3 numeric) [if] [in] [, ROBust LEVEL(real 95)]
 
     marksample touse
