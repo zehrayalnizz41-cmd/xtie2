@@ -4,7 +4,7 @@
 
 `xtie2` implements fixed-effects panel estimation with automatic pairwise interactions, full conditional marginal effects, marginal-effect zero crossings, and Johnson–Neyman significance regions.
 
-Version 2.3.0 integrates the extended focal-effect and Johnson–Neyman functionality previously developed under `xtie3` into the maintained `xtie2` command, while preserving the original first-two-variable convention and legacy stored-result names.
+Version 2.3.0 extends the original xtie2 framework with flexible focal-pair selection, full conditional marginal effects, and Johnson–Neyman significance regions, while preserving the original first-two-variable convention and legacy stored-result names.
 
 ## What the command does
 
