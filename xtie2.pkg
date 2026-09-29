@@ -1,11 +1,14 @@
 v 3
-d xtie2: Pairwise interactive panel fixed effects, full conditional marginal effects and Johnson-Neyman regions
+d xtie2: Pairwise interactive panel fixed effects, full conditional marginal effects, zero crossings, and Johnson-Neyman regions
 d Dr. Zehra Yalnız and Prof. Dr. Figen Büyükakın, Kocaeli University
-d Version 2.3.0 release candidate; not submitted to SSC
+d Version 2.3.0
 d Distribution-Date: 20260929
 f xtie2.ado
 f xtie2.sthlp
+f example.do
 f xtie2_validation.do
-f README_VALIDATION.md
+f README.md
+f VALIDATION.md
 f CHANGELOG.md
+f CITATION.cff
 f LICENSE
