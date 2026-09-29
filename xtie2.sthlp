@@ -1,5 +1,5 @@
 {smcl}
-{* *! version 2.3.0 29sep2026 RELEASE CANDIDATE, Stata validation pending}{...}
+{* *! version 2.3.0 29sep2026}{...}
 {title:Title}
 {p 4 4}{cmd:xtie2} — Fixed-effects panel interactions, conditional effects, and Johnson–Neyman regions{p_end}
 
@@ -7,7 +7,7 @@
 {p 8 12 2}{cmd:xtie2} {it:depvar indepvars} {ifin} [{cmd:,} {opt robust} {opt level(#)} {opt pair(var1 var2)}]{p_end}
 
 {title:Description}
-{pstd}{cmd:xtie2} fits {cmd:xtreg, fe} with all pairwise interactions among the explanatory variables. By default the first two explanatory variables are the focal pair. {cmd:pair()} selects any two explanatory variables and internally places them first; the fitted model is unchanged by this ordering. All other explanatory variables are treated as continuous moderators and held at their estimation-sample means for focal effects. Declare the panel with {cmd:xtset} first. This command does not estimate Hansen-type panel thresholds.{p_end}
+{pstd}{cmd:xtie2} fits {cmd:xtreg, fe} with all pairwise interactions among the explanatory variables. By default the first two explanatory variables are the focal pair. {cmd:pair()} selects any two explanatory variables and internally places them first; the fitted model is unchanged by this ordering. All explanatory variables are treated as continuous. For the focal conditional effects, the remaining explanatory variables enter through their interactions with the focal variables and are held at their estimation-sample means. Declare the panel with {cmd:xtset} first. This command does not estimate Hansen-type panel thresholds.{p_end}
 {pstd}For a model with x1, x2 and additional variables zk, the effect of x1 at x2=v, holding each zk at its estimation-sample mean, is b1 + b12*v + sum_k b1k*mean(zk). The effect of x2 is analogous. Standard errors use the full covariance matrix of these coefficients. No causal interpretation is implied by the command.{p_end}
 
 {title:Options}
