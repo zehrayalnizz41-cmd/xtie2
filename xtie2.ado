@@ -1,4 +1,4 @@
-*! xtie2 2.3.0 29sep2026 - release candidate; Stata validation pending
+*! xtie2 2.3.0 29sep2026
 program define xtie2, eclass
     version 17
     syntax varlist(min=3 numeric) [if] [in] [, ROBust LEVEL(real 95) PAIR(string)]
