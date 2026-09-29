@@ -1,13 +1,11 @@
 v 3
-d xtie2
-d Interactive Panel Data Estimation
-d
-d Authors: Dr. Zehra Yalnız and Prof. Dr. Figen Büyükakın
-d Email: zehrayalnizz41@gmail.com
-d ORCID: 0000-0003-2633-2022
-d Version: 2.1, September 2026
-d
+d xtie2: Pairwise interactive panel fixed effects, full conditional marginal effects and Johnson-Neyman regions
+d Dr. Zehra Yalnız and Prof. Dr. Figen Büyükakın, Kocaeli University
+d Version 2.3.0 release candidate; not submitted to SSC
+d Distribution-Date: 20260929
 f xtie2.ado
 f xtie2.sthlp
-f xtie3.ado
-f xtie3.sthlp
+f xtie2_validation.do
+f README_VALIDATION.md
+f CHANGELOG.md
+f LICENSE
