@@ -1,3 +1,3 @@
 v 3
-d xtie2 development distribution (candidate; not SSC release)
-p xtie2 Interactive fixed-effects panel analysis and Johnson-Neyman regions
+d xtie2: Interactive Panel Data Estimation for Stata
+p xtie2 Fixed-effects panel estimation with pairwise interactions, conditional marginal effects, zero crossings, and Johnson-Neyman regions
